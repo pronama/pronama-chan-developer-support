@@ -3,7 +3,7 @@
 # プロ生ちゃん開発支援プログラム
 
 * http://pronama.azurewebsites.net/pronama-chan-developer-support-program
-* http://pronama.azurewebsites.net/pronama-chan-developer-support-program-2
+* http://pronama.azurewebsites.net/pronama-chan-developer-support-program-2nd
 
 合同会社プロ生に対し匿名では利用できません。
 
