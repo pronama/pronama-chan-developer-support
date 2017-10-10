@@ -2,8 +2,18 @@
 
 # プロ生ちゃん開発支援プログラム
 
+## 案内記事
+
 * http://pronama.azurewebsites.net/pronama-chan-developer-support-program
 * http://pronama.azurewebsites.net/pronama-chan-developer-support-program-2nd
+
+## 対象者
+
+* プログラミングを学びたい人やアプリ開発初心者（学生やサンデープログラマーなど）
+
+※ 法人や個人事業主として商用目的の場合、当プログラムの趣旨と異なりますのでご遠慮ください。
+
+## 利用申請
 
 合同会社プロ生に対し匿名では利用できません。
 
