@@ -4,9 +4,11 @@
 
 ## 案内記事
 
-* http://pronama.azurewebsites.net/pronama-chan-developer-support-program
-* http://pronama.azurewebsites.net/pronama-chan-developer-support-program-2nd
-* http://pronama.azurewebsites.net/pronama-chan-developer-support-program-unity-teams/
+* https://pronama.jp/pronama-chan-developer-support-program
+* https://pronama.jp/pronama-chan-developer-support-program-2nd
+* https://pronama.jp/pronama-chan-developer-support-program-unity-teams/
+* https://pronama.jp/pronama-chan-developer-support-program-mac-app/
+* https://pronama.jp/pronama-chan-developer-support-program-font-awesome/ 
 
 ## 対象者
 
